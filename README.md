@@ -1,6 +1,6 @@
 # DATA698
 
-##Investigation of factors associated with traffic violations and accidents in NYC 
+## Investigation of factors associated with traffic violations and accidents in NYC 
 
 
 1.	Who are involved in majority of the traffic violations?
